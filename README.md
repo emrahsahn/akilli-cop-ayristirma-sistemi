@@ -7,8 +7,8 @@ Akıllı Çöp Ayrıştırma Sistemi, atıkları plastik, cam, metal ve kağıt 
 
 Aşağıda sistemin plastik atıkları doğru şekilde tespit ettiğine dair bir örnek bulunmaktadır:
 
-![Plastik Tespiti Örneği](images/testpit1.jpg)
-!(images/tespit2.jpg)
+![Plastik Tespiti Örneği](images/testpit1.jpg,images/tespit2.jpg))
+
 
 ## Çalışma Prensibi
 - **Model**: YOLO tabanlı nesne tespiti modeli, 20.000'den fazla görsel ile eğitildi ve farklı atık türlerini sınıflandırmak için kullanılıyor.
