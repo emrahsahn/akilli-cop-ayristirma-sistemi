@@ -3,6 +3,12 @@
 ## Proje Özeti
 Akıllı Çöp Ayrıştırma Sistemi, atıkları plastik, cam, metal ve kağıt gibi türlere sınıflandırmak için makine öğrenimi ve bilgisayarla görme kullanır. Böylece geri dönüşüm oranları artırılır ve çevreye olan olumsuz etkiler azaltılır.
 
+## Örnek Tespit Çıktısı
+
+Aşağıda sistemin plastik atıkları doğru şekilde tespit ettiğine dair bir örnek bulunmaktadır:
+
+![Plastik Tespiti Örneği](images/tespit1.jpg)
+
 ## Çalışma Prensibi
 - **Model**: YOLO tabanlı nesne tespiti modeli, 20.000'den fazla görsel ile eğitildi ve farklı atık türlerini sınıflandırmak için kullanılıyor.
 - **Teknoloji Yığını**:
