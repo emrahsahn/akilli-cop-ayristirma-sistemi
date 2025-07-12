@@ -7,7 +7,7 @@ Akıllı Çöp Ayrıştırma Sistemi, atıkları plastik, cam, metal ve kağıt 
 
 Aşağıda sistemin plastik atıkları doğru şekilde tespit ettiğine dair bir örnek bulunmaktadır:
 
-![Plastik Tespiti Örneği](images/testpit1.jpg,images/tespit2.jpg))
+![Metal Tespiti Örneği](images/tespit5.jpg))
 
 
 ## Çalışma Prensibi
